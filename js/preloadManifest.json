@@ -1,0 +1,11 @@
+{
+    "manifest":[
+        "js/Game.js",
+        "js/Ticker.js",
+        "js/Utils.js",
+      "gfx/code.png",
+      "gfx/va1.png",
+      "gfx/va2.png",
+      "gfx/va3.png"
+    ]
+}
